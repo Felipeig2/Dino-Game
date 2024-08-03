@@ -1,0 +1,20 @@
+.dino{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: 0;
+ 
+    text-align: center;
+   
+}
+#canvas-container {
+    text-align: center;
+}
+canvas {
+    border: 1px solid #3e3131;
+    background-color: #fff;
+}   
+.div{
+    text-align: center;
+}
